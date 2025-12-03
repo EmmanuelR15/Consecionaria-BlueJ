@@ -38,7 +38,7 @@ java -version
 
 ### 1. Clonar o descargar el repositorio
 ```bash
-git clone https://github.com/tuusuario/Consecionaria-BlueJ.git
+git clone https://github.com/EmmanuelR15/Consecionaria-BlueJ.git
 cd Consecionaria-BlueJ
 ```
 
@@ -195,16 +195,17 @@ Proyecto académico sin licencia específica. Uso exclusivamente educativo.
 
 ## 👤 Autor
 
-**Emma** - Trabajo Práctico Integrador - Programación II  
-**Institución**: [Tu Instituto/Universidad]  
-**Fecha**: 3 de diciembre de 2025
+**Autores**: Lautaro Fernández y Emmanuel Ruiz  
+**Trabajo Práctico Integrador** - Programación II  
+**Institución**: Universidad Tecnológica Nacional (UTN)  
+**Fecha**: 3 de diciembre de 2024
 
 ---
 
 ## 📞 Contacto / Preguntas
 
-Para dudas sobre la implementación o defensa del proyecto, contacta al autor o al docente responsable de la asignatura.
+Para dudas sobre la implementación o defensa del proyecto, contacta a los autores o al docente responsable de la asignatura.
 
 ---
 
-**Última actualización**: 3 de diciembre de 2025
+**Última actualización**: 3 de diciembre de 2024
