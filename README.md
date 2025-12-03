@@ -165,9 +165,6 @@ Al ejecutar `Main`, se despliega un menú interactivo:
 - Cola sin implementación de `Iterable<T>` (mejora potencial para uso en for-each loops)
 - Lavadero como clase utilitaria estática (mejora potencial: composición en Taller)
 
-**Evaluación general**: Sistema robusto y escalable, apto para defensa académica con calificación esperada de 90-100 puntos.
-
----
 
 ## 📝 Uso de IA en Desarrollo
 
@@ -202,10 +199,5 @@ Proyecto académico sin licencia específica. Uso exclusivamente educativo.
 
 ---
 
-## 📞 Contacto / Preguntas
-
-Para dudas sobre la implementación o defensa del proyecto, contacta a los autores o al docente responsable de la asignatura.
-
----
 
 **Última actualización**: 3 de diciembre de 2024
