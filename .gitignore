@@ -1,0 +1,76 @@
+# ============================================
+# BlueJ Project Files (.class, .ctxt, package.bluej)
+# ============================================
+*.class
+*.ctxt
+package.bluej
+
+# ============================================
+# Archivos del Sistema Operativo
+# ============================================
+Thumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.directory
+
+# ============================================
+# IDEs y Editores (NO incluye BlueJ native)
+# ============================================
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+bin/
+nbproject/
+build/
+dist/
+*.sublime-project
+*.sublime-workspace
+
+# ============================================
+# Build y Dependencias (Maven, Gradle)
+# ============================================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.gradle/
+*.gradle
+
+# ============================================
+# Logs y Archivos Temporales
+# ============================================
+*.log
+*.log.*
+logs/
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.~*
+*.bak
+*.backup
+
+# ============================================
+# Datos Persistidos (generados en runtime)
+# ============================================
+vehiculos.txt
+
+# ============================================
+# Variables de Entorno y Configuración Personal
+# ============================================
+.env
+.env.local
+.user.properties
